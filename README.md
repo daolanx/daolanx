@@ -2,7 +2,8 @@
 
 **Freelance Frontend Developer** | Aspiring **Full-stack Independent Developer**
 
-I believe programming carries intrinsic joy and meaning. For now, focusing on mastering the frontend is my chosen starting point.
+
+I believe programming carries intrinsic joy and meaning. 
 
 ---
 
