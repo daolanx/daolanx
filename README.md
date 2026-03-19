@@ -6,11 +6,6 @@ I believe programming carries intrinsic joy and meaning. For now, focusing on ma
 
 ---
 
-### 🚀 Work with Me
-I'm currently **available for new freelance projects!** I specialize in building modern, responsive, and high-performance web applications.
-
-- **Status:** Open to opportunities 🟢
-- **Reach out:** DM on [Twitter](https://twitter.com/daolanx) or [Email Me](mailto:daolanx.dev@gmail.com).
 
 ### 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,9 +18,9 @@ I'm currently **available for new freelance projects!** I specialize in building
 ---
 
 ### 🌐 Where to find me
-- ⚡ [**Professional Profile**](https://work.daolanx.me/) — My portfolio & services
-- 🐙 [**GitHub**](https://github.com/daolanx) — My open-source work
-- ✍️ [**Blog**](https://www.daolanx.me) — Tech insights & articles
-- 🐦 [**Twitter**](https://twitter.com/daolanx) — Stay connected
+ [**🏠 Home Page**](https://www.daolanx.com) |  [**🗂️ Work**](https://demo.daolanx.com/) |  [**📝 Blog**](https://www.daolanx.me) |
+  [**𝕏 Twitter**](https://twitter.com/daolanx) | [**✉️ Email**](mailto:daolanx.dev@gmail.com)
+
+
 
 *Thanks for following along!*
