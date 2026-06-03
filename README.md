@@ -19,7 +19,7 @@ I believe programming carries intrinsic joy and meaning.
 ---
 
 ### 🌐 Where to find me
- [**🏠 Home Page**](https://www.daolanx.com) |  [**🗂️ Work**](https://demo.daolanx.com/) |  [**📝 Blog**](https://www.daolanx.me) |
+ [**🛠️ Portfolio**](https://daolanx.com) | [**✍️ Blog**](https://daolanx.me) |
   [**𝕏 Twitter**](https://twitter.com/daolanx) | [**✉️ Email**](mailto:daolanx.dev@gmail.com)
 
 
