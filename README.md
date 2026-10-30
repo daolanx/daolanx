@@ -14,7 +14,6 @@ Mainly building and shipping web products, with some toy projects on the side.
 ---
 
 ### 🌐 Where to find me
- [**🛠️ Portfolio**](https://daolanx.com) | [**✍️ Blog**](https://daolanx.me) |
-  [**𝕏 Twitter**](https://twitter.com/daolanx) | [**✉️ Email**](mailto:daolanx.dev@gmail.com)
+ [**✍️ Blog**](https://daolanx.me) | [**𝕏 Twitter**](https://twitter.com/daolanx) | [**✉️ Email**](mailto:daolanx.dev@gmail.com)
 
 *Thanks for stopping by!*
